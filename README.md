@@ -4,11 +4,11 @@ This sumarises the practical prediction systems seminar for Master Students at t
 
 The results:
 
-* Mikołaj Grzywacz, Transfer learning ROBERTA for distiguishing between company name and unrelated usage of the same name:
+* Mikołaj G., Transfer learning ROBERTA for distiguishing between company name and unrelated usage of the same name:
 https://github.com/Mikolaj6/Seminar-projects
 
-* Andrzej Zapała GANs for generation mouse embyos https://github.com/a-zapala/MouseCells
+* Andrzej Z. GANs for generation mouse embyos https://github.com/a-zapala/MouseCells
 
-* Michał Furtega Predicting Bitcoin  https://github.com/michal2409/praktyczne-systemy-predykcjyne
+* Michał F. Predicting Bitcoin  https://github.com/michal2409/praktyczne-systemy-predykcjyne
 
-* Michał Filipiuk Collaborative Filtering https://github.com/mkfilipiuk/Collaborative_Filtering_Presentation
+* Michał F. Collaborative Filtering https://github.com/mkfilipiuk/Collaborative_Filtering_Presentation
